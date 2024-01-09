@@ -1,0 +1,1 @@
+web: uvicorn application:app ㎼㎼port㚉8000 ㎼㎼host㚉0.0.0.0 ㎼㎼proxy㎼headers ㎼㎼forwarded㎼allow㎼ips='*'
